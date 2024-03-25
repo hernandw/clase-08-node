@@ -1,0 +1,17 @@
+{
+  "name": "ejemplo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jimp": "^0.22.12",
+    "moment": "^2.30.1"
+  }
+}
